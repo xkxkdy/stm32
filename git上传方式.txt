@@ -3,3 +3,13 @@
 2.git commit -m "里面随便写，这主要是用来说明你此次提交时的备注"
 
 3.git push origin main
+
+如果上传不上去可以查看下面命令
+$ git config --global -l
+看是否显示下面内容
+user.name=Mr.zhou
+user.email=2029365440@qq.com
+http.proxy=http://127.0.0.1:7890
+
+不是的话git config --global http.proxy http://127.0.0.1:7890
+端口找clash——>设置——>端口设置
