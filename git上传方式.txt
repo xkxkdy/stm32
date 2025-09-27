@@ -13,3 +13,6 @@ http.proxy=http://127.0.0.1:7890
 
 不是的话git config --global http.proxy http://127.0.0.1:7890
 端口找clash——>设置——>端口设置
+
+
+如果将某一个文件内容改变想要上传
