@@ -1,0 +1,5 @@
+1.git add 需要上传的文件名(尽量只上传代码、照片、txt等，软件好像不行)
+
+2.git commit -m "里面随便写，这主要是用来说明你此次提交时的备注"
+
+3.git push origin main
